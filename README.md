@@ -4,7 +4,7 @@ a movie search app that allow users to search for movie of their choice.
 
 ## Deployed URL
 
-https://cut-session.onrender.com/
+https://heroic-donut-ca162a.netlify.app/
 
 ## General Features
 
